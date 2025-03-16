@@ -7,6 +7,8 @@ int c=a+b;
 String s="Addition";
 System.out.println(s+" "+"of two numbers:"+ " "+c);
 System.out.println("Added New Line");
+  System.out.println("My Second Line");
   System.out.println("Added Second Line");
+
 }
 }
